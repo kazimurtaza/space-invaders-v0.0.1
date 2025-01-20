@@ -1,4 +1,5 @@
 # space-invaders-v0.0.1
+![image](https://github.com/user-attachments/assets/bd1b56a8-133c-4891-ae73-65289747a2a6)
 
 # Space Invaders
 
